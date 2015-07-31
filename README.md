@@ -1,2 +1,1 @@
-# PhotoBooth
-PhotoBooth
+# Default
